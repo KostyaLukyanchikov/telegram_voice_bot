@@ -1,0 +1,4 @@
+python-telegram-bot==13.11
+gTTS==2.2.4
+spacy==3.3.0
+spacy-langdetect==0.1.2
